@@ -1,0 +1,10 @@
+<div [ngClass]="setClasses()">
+    <p>
+        <input type="checkbox" (change)="onToggle(todo)">
+        {{todo.title}}
+        (Criado as {{todo.data_criacao}})
+
+       <button type="button" (click)="onDelete(todo)" class="del">Tornar Privado</button>
+
+    </p>
+</div>

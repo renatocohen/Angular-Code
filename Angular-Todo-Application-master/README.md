@@ -1,0 +1,1 @@
+The simple & comprehensive Todo Application in Angular 7.0

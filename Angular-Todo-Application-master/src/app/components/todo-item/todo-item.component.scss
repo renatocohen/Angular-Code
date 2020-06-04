@@ -1,0 +1,25 @@
+.del {
+    background: #FFF6D9;
+    color: #000;
+    border: none;
+    padding: 5px 9px;
+    cursor: pointer;
+    float: right;
+  }
+
+  .todo {
+    background: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+    border-bottom: 1px #ccc dotted;
+  }
+
+  .is-complete {
+    background: #fff;
+    border: 1px solid #fff;
+  }
+
+  .is-private {
+    background-color: #FFF6D9;
+    border: 1px solid #EFDAA3;
+  }
